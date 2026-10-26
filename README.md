@@ -247,6 +247,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://static.iplocate.io/custom/logo-square-rounded.png" height="14"/> [IPLocate](https://github.com/iplocate/mcp-server-iplocate) - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - <img src="https://www.ip2location.io/favicon.ico" height="14"/> [IP2Location.io](https://github.com/ip2location/mcp-ip2location-io) - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 - <img src="https://www.qgis.org/styleguide/visual/qgis-logo.svg" height="14"/> [QGIS](https://github.com/jjsantos01/qgis_mcp) - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
+- <img src="https://supercarto.pages.dev/favicon.svg" height="14"/> [supercarto](https://github.com/Unselfisheologism/supercarto) - Token-budgeted map context for AI agents: one call returns a walkable topological graph of any coordinate, with named landmarks and metre distances, terrain slope, keyless weather, sun position, and GTFS transit with a certified ride plan. Every truncation is recorded in `omitted:`, so a model can tell "not there" from "not shown". Install: `npx supercarto mcp`.
 
 
 <br />
